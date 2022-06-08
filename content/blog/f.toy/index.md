@@ -1,11 +1,13 @@
 ---
-title: 2022 개인 프로젝트
+title: 2022 개인 프로젝트__쉬운 보험약관 가이드
 date: ""
-description: study 및 토이 프로젝트
+description: study 및 토이 프로젝트 1
 ---
 > [쉬운 보험약관 가이드](https://www.fsc.go.kr/po010101/74513?srchCtgry=&curPage=38&srchKey=&srchText=&srchBeginDt=&srchEndDt=)
 금융위원회의 보험업 감독규정 개정에 따른 「소비자가 이해하기 쉬운 보험약관 보험개선방안」에 착안하여 가볍고 접근성 높은 웹 기반의 보험 약관 가이드북을 제작하였습니다. 
 
+![Insuarance](./ins2.png)
+![Insuarance](./ins1.png)
 
 ##### Before project starts 
 - 금융위원희 보험약관을 개인이 사용해도 되는지? (상업적 이용 X) 
