@@ -1,23 +1,20 @@
 ---
-title: 2015 모바일 게임 개발
+title: 2016 대구 스마트 그리드(C-EMS)
 date: ""
-description: Unity 3d 기반 안드로이드 게임 제작
+description: 지방자치단체(대구광역시) 에너지 절감 유도 사업
 ---
-![Game](./game1.png)
-![Game](./game2.png)
-![Game](./game3.png)
-![Game](./game4.png)
-![Game](./game5.png)
-![Game](./game6.png)
+![Cems](./003_cems1.png)
+![Cems](./003_cems2.png)
+![Cems](./003_cems3.png)
 
-2015년 부산 게임 아카데미 모바일 게임 개발 과정을 수료과정 프로젝트 입니다. 
+대구광역시에 위치한 공단, 공장, 기관의 전력 사용량을 실시간으로 감시하고 데이터를 분석하여 
+전력 사용량 절감을 유도하는 스마트 그리드 기반의 프로젝트입니다.
 
 | 상세 | 설명                                    | 
 | :----- | :--------------------------------------- | 
-| 인원      | 개발 3명 + 디자인 3명  | 
-| 기간      | 2개월  | 
-| 참고도서      | OpenGL로 배우는 3차원 컴퓨터 그래픽스(한빛아카데미)<br/> OpenGL SUPER BIBLE 3(정보문화사)|  
-|Dependencies      | C# Unity | 
+| 인원      | 개발 20+명 + DBA 1명  | 
+| 기간      | 1년  | 
+|Dependencies      | Spring framework<br/>Java Script(Angular.js, nginx)<br/>bootstrap(CSS)<br/>tibero(RDBMS)<br/>rMate(Chart UI)      | 
 
 
 
