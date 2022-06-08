@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[교보생명 플랫폼기획팀 FrontEnd Developer]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 13:26:02 GMT</lastBuildDate><item><title><![CDATA[2016 대구 스마트 그리드(C-EMS)]]></title><description><![CDATA[대구광역시 내 공공기관 및 에너지 다소비 업체의 에너지 절감을 위한 업체/시간대/공단 단위 모니터링 즉, 스마트 그리드 시스템을 통해 전력 사용량 절감을 목표로 한 지방자치단체의 에너지 사업 입니다. 상세 설명 인원 개발 20+명 + DBA…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</guid><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[교보생명 플랫폼기획팀 FrontEnd Developer]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 14:02:22 GMT</lastBuildDate><item><title><![CDATA[2016 대구 스마트 그리드(C-EMS)]]></title><description><![CDATA[대구광역시 내 공공기관 및 에너지 다소비 업체의 에너지 절감을 위한 업체/시간대/공단 단위 모니터링 즉, 스마트 그리드 시스템을 통해 전력 사용량 절감을 목표로 한 지방자치단체의 에너지 사업 입니다. 상세 설명 인원 개발 20+명 + DBA…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</guid><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -811,9 +811,9 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</content:encoded></item><item><title><![CDATA[2022 개인 프로젝트__react/socket 채팅 프로그램]]></title><description><![CDATA[react와 socket으로 구현한 채팅 프로그램으로, 회원 인증(session), 채팅 기능을 갖고 있습니다.
-평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 차원의 toy project 입니다. 
+평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 목적의 toy project 입니다. 
  Before…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/f.toy2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/f.toy2/</guid><content:encoded>&lt;p&gt;react와 socket으로 구현한 채팅 프로그램으로, 회원 인증(session), 채팅 기능을 갖고 있습니다.
-평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 차원의 toy project 입니다.&lt;/p&gt;
+평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 목적의 toy project 입니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -962,7 +962,7 @@
 &lt;/table&gt;
 &lt;h5&gt;TODO&lt;/h5&gt;
 &lt;ul class=&quot;contains-task-list&quot;&gt;
-&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 로그인 시 닉네임 표시(props, useState)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 로그인 시 메인화면&amp;#x26;채팅화면 닉네임 표시 -&gt; Route Link 의 state에 저장, props&amp;#x26;useState로 사용&lt;/li&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; window localStorage 사용 -&gt; 이전 대화 내역 불러오기(useEffect)&lt;/li&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; default user Data -&gt; 유저마다 profile 지정&lt;/li&gt;
 &lt;/ul&gt;
