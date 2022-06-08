@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[교보생명 플랫폼기획팀 FrontEnd Developer]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 12:38:22 GMT</lastBuildDate><item><title><![CDATA[2016 대구 스마트 그리드(C-EMS)]]></title><description><![CDATA[대구광역시 내 공공기관 및 에너지 다소비 업체의 에너지 절감을 위한 업체/시간대/공단 단위 모니터링 즉, 스마트 그리드 시스템을 통해 전력 사용량 절감을 목표로 한 지방자치단체의 에너지 사업 입니다. 상세 설명 인원 개발 20+명 + DBA…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</guid><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[교보생명 플랫폼기획팀 FrontEnd Developer]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 13:26:02 GMT</lastBuildDate><item><title><![CDATA[2016 대구 스마트 그리드(C-EMS)]]></title><description><![CDATA[대구광역시 내 공공기관 및 에너지 다소비 업체의 에너지 절감을 위한 업체/시간대/공단 단위 모니터링 즉, 스마트 그리드 시스템을 통해 전력 사용량 절감을 목표로 한 지방자치단체의 에너지 사업 입니다. 상세 설명 인원 개발 20+명 + DBA…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</guid><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -660,10 +660,75 @@
 &lt;h5&gt;업무 상세&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;교육/도서/질병 등의 컨텐츠 기반 아이데이션/프로모션 페이지 개발(교보문고 co-work)&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[2022 개인 프로젝트]]></title><description><![CDATA[쉬운 보험약관 가이드 금융위원회의 보험업 감독규정 개정에 따른 「소비자가 이해하기 쉬운 보험약관 보험개선방안」에 착안하여 가볍고 접근성 높은 웹 기반의 보험 약관 가이드북을 제작하였습니다. Before project starts…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/f.toy/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/f.toy/</guid><content:encoded>&lt;blockquote&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[2022 개인 프로젝트__쉬운 보험약관 가이드]]></title><description><![CDATA[쉬운 보험약관 가이드 금융위원회의 보험업 감독규정 개정에 따른 「소비자가 이해하기 쉬운 보험약관 보험개선방안」에 착안하여 가볍고 접근성 높은 웹 기반의 보험 약관 가이드북을 제작하였습니다. 
+ Before project starts…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/f.toy/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/f.toy/</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.fsc.go.kr/po010101/74513?srchCtgry=&amp;#x26;curPage=38&amp;#x26;srchKey=&amp;#x26;srchText=&amp;#x26;srchBeginDt=&amp;#x26;srchEndDt=&quot;&gt;쉬운 보험약관 가이드&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;금융위원회의 보험업 감독규정 개정에 따른 「소비자가 이해하기 쉬운 보험약관 보험개선방안」에 착안하여 가볍고 접근성 높은 웹 기반의 보험 약관 가이드북을 제작하였습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/e4900/ins2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 162.65822784810126%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAhCAYAAADZPosTAAAACXBIWXMAABYlAAAWJQFJUiTwAAADUklEQVRIx+2Wy27bVhCG+Tpt3FR2rat1SaymSDd9gnQRIFnkTQr0IZIAiYF21VXSom2KwE2ctHEc27HiyJZESrIsyaJESrxT5F/MUJRlmSh68aKLEvgw58yZ+c8cEnNAIZnKIZHMgmw2t4rYYgKxpQTSmTwyKwVcWohh4aNFXr/++Re4dfsOrq5+hmQqi3g8jVg8juS1HJavZLCYSUAgseV4hkXTmQIWLi/h49gyUukcQ4IffHgZnyynsVq8jhtf3kQuX2TBRGIFS4kUksU84oUVLGVSEPKFT5ErFDmIKFy5BvJl80WumOahbyV7lTcmfxhPfqJQCOKEmtREVWqiNqEqNZhavQmx3mQbIjaOIDVaPK7OxYcIhu1An8OwXeiWg5FhYaibbHk8mWumHcRwbBAfIqiagVmUkc4JFamJb797jEc/PsVPTzfw2+tdtj88eYZnL7c4hmLn8wXacd5JvsFQQ/O4i3avj6NODz1liJO+gm5fwclARVTeVHAUhWHBsBzopg3dsqGZFlcVYEXmkJZAA8/z4Pv+OTzPhzdrZ4iKNyw7EKQJEB30V6GHBalMejTd5HfWOemj2xugTVZWoAw1jH0fzthDsG2AN2fPCTZbHbwrV1CuiHh/SNTYlomKiIOqhM03u/j99Q62tvfwZrfE8+2377C1swfHcWHazumR6b2MPe88Yw+u6/L6UasFUZLYtjsd1OsNdLpdSFKdv8NU0PPDov/dc3pk38f+0MCvPRUv+kNsyAE0fn4ywONSGY9KZay3e5N1dcpzWcVLeQjb82BRhaHgLx0Z96pHWBOP8ZBpYU1q4/6BhK++f4Kvf17H3f0q1uptPKy1JjHHeCC28I3Uhu66sMMjc7m2g4GuQzEMDHQDij6xhgHNdaG5YyimOV1TZmJU0+QvbVqTCnXT4gmVTNAXs51gR8KybMae89v2aQ69PypuejkoISMd3b7KvSurI8iqhv4wgPyBL2Aw0qd5Z3o5bHTqX1kZYePVNja3S9gplVEqV7F/KOJQbGD9xSb7dkoH2Htf4UbQDGt6oXAvh2KzNrz/Ak4b/6zfOpNzTnBW9O8wLxpZYVTwn4lEVhi1+E/4X/C/LHhRCBcpdqaXL+zI9IcgD1T+K7gI/gDixFu4SasbEgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Insuarance&quot;
+        title=&quot;Insuarance&quot;
+        src=&quot;/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/f058b/ins2.png&quot;
+        srcset=&quot;/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/c26ae/ins2.png 158w,
+/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/6bdcf/ins2.png 315w,
+/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/f058b/ins2.png 630w,
+/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/40601/ins2.png 945w,
+/static/63ac7c9cde03e5ba11bc5f9ab67cefb3/e4900/ins2.png 988w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a0a75785170bec23ed5445cb01f72065/339e3/ins1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 163.29113924050634%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAhCAYAAADZPosTAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEU0lEQVRIx5VUaU8bVxSdX5O0itkDJZACgSioVb/1SxQcFar2R7RSf0nVququbJCUUJYQiouapuxgA7bxMovHNouXmfFsnuFU72KD7ZhtpKN35y5n7vaG67tzD523evBhzwAG7n6EhsY2tN3sRE9vP7pv9+Ha9RvweJrR1d2HB95hfPX1N7g3+DH6BwbR1dWLjt7b6P10EN2f9KPzbg+45pYOImlsuomm5na8934jbnha0NrWCWa7dt1DOk9DK9o7unGnfxAtrR1obmlHQ0MrPM1taL71AZo62tHQdhPckHcY3ocj8HqHweSHJfnB0Gf0PvL5lxgeYfiC/O7f92KoZPMSRjA0dHpytm2jHorFIgzDgCynICdTdB5msnAcp66/47rI5XLgcM5jmCYCW0FsbYfolCT5PHdomgbu6OgI9eC6R3WDXNet4+uSTVGU4wzLBgpgDqV3x3GpRBZwjGqi2lhVVatLLhuu+pTjWN9PMiyXuPDPW/z48yNMTM7i8bNxfPv9L/juh1/x029PMTk9h6djLzExNYvfH40hn1eqCFkVXG0J/y2u4vmLP7G+tgbfvA/Pnoxifs4H35wPgY0ANlY2sLK4Sh8uFPR3CSvTditKjh0CUQXYzAC8AQQLDkK6jS3bhAynbptOMqzpCEzbRSrnIHpgIZKxkNZspHQLacNCRNOQtAwclaZdORg2QO4gk0MkLiEuyojxCUT5BCJxEXFegCwnEY8LtH+imADPSxB4CZKYRJSXwEtJApMZLMsCp+kGEfGMUEhgNybQyYjFRBqhKE9BopymoLJdktOICwlKhMXKqX26LdxVV8Q5Z7PemXLVgrsueEHCTjCMUDiCcDiCXSGJlFas6lttzJmE7DRNE7phENiPgv0EagdxKcKLbsx5VZ1JWHv5L/Kpu9hnXXz2kzjV16uiglA3LBimDdM6hl10YNnOsc4uwrSKMMhWJDuTi84R2ZhPOZ7pdcMEl8kpmJz5CxNTrzE5M48noy8x8/pvTM/6MPpiEn9MvCI9k6de+bDwZglj41N4Pj5Nun8XVzExNYedcJSIOdWwISb3IUhJ7B1ksRsVSGbLGo2LkNP7pIvEBNIJiRQ2t0K01OxGJdP7iMYlJNMHKLAM8+kkCod7YJmy7WeG1N4hQZRTSO9ncJjNU4k6K9G0TlrCyiywki0bmmFBKxjgcrKAXDwIMZHCTjhG2RBiAjYCQZJZZmrBgKLphLyqn8iVIEIln4eqKMjlVRxmFcqUGlwaCjtZFiyAkZ6FE8JcLAhlZ5mumX87DP92CJpuIq8WCOWvl4MuJFRVDWpeoeCsol0q+FxCZTcAzf8WkihRz9g0WYaVmV2JkGVY2dhKh8uimjC4Dn1tASIvYt0fxHYwQg7HPdSr+ngmYeWU1YIOVVHB/tysVAaDrtsp2KQvLLlgEAenBJahrr1BOBTB0qofy6ubJfixsubH0soGNgNBZGmt8ucim1PwP86hX9QrqqqiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Insuarance&quot;
+        title=&quot;Insuarance&quot;
+        src=&quot;/static/a0a75785170bec23ed5445cb01f72065/f058b/ins1.png&quot;
+        srcset=&quot;/static/a0a75785170bec23ed5445cb01f72065/c26ae/ins1.png 158w,
+/static/a0a75785170bec23ed5445cb01f72065/6bdcf/ins1.png 315w,
+/static/a0a75785170bec23ed5445cb01f72065/f058b/ins1.png 630w,
+/static/a0a75785170bec23ed5445cb01f72065/40601/ins1.png 945w,
+/static/a0a75785170bec23ed5445cb01f72065/339e3/ins1.png 977w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h5&gt;Before project starts&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;금융위원희 보험약관을 개인이 사용해도 되는지? (상업적 이용 X)
@@ -745,4 +810,201 @@
 &lt;td align=&quot;left&quot;&gt;status 500&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content:encoded></item></channel></rss>
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[2022 개인 프로젝트__react/socket 채팅 프로그램]]></title><description><![CDATA[react와 socket으로 구현한 채팅 프로그램으로, 회원 인증(session), 채팅 기능을 갖고 있습니다.
+평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 차원의 toy project 입니다. 
+ Before…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/f.toy2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/f.toy2/</guid><content:encoded>&lt;p&gt;react와 socket으로 구현한 채팅 프로그램으로, 회원 인증(session), 채팅 기능을 갖고 있습니다.
+평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 차원의 toy project 입니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7f88e0160eb0b2a8a08d83b96a03f1eb/2cb21/chat1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAmklEQVQoz+3T0QrCIBgF4L3/wzXwKgbLrIsRVsqEicvfMxwJQboKvOyAeOHh87/QhjEGIQRiQghvK4bzHm27Q9d1IKJsN8Y5h0bKK4wxWSwV+36AEBeMowZR2AbxTB5cT3A6a1i71XsBS4VUirvWCt4/1guqgEpF0Neb8A8Wu/M81wWnyf7ybMpg+j1HfvgEBngiyNv9K3AvBixkBbMzsxJo2wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chat&quot;
+        title=&quot;Chat&quot;
+        src=&quot;/static/7f88e0160eb0b2a8a08d83b96a03f1eb/f058b/chat1.png&quot;
+        srcset=&quot;/static/7f88e0160eb0b2a8a08d83b96a03f1eb/c26ae/chat1.png 158w,
+/static/7f88e0160eb0b2a8a08d83b96a03f1eb/6bdcf/chat1.png 315w,
+/static/7f88e0160eb0b2a8a08d83b96a03f1eb/f058b/chat1.png 630w,
+/static/7f88e0160eb0b2a8a08d83b96a03f1eb/40601/chat1.png 945w,
+/static/7f88e0160eb0b2a8a08d83b96a03f1eb/78612/chat1.png 1260w,
+/static/7f88e0160eb0b2a8a08d83b96a03f1eb/2cb21/chat1.png 2174w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0459e32a1246a466bc3c2cf665cc742b/a7115/chat2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABg0lEQVQoz31TW07DMBD0RTkYf3ATfrgBiNI2gNKktlPHwaVJ/MwgmwQlVdSV5sce7+zOrsl2l2Gz2aDrOngfYJ2DG2GtRQgB+/0eL69veN9uUVVVOot3bsaNaNsWhOVbHA4FlFIABqzFkVIU2QvKIkdVndLjtTDGgPxIBiFq1EIk5RjDMPzBxwo96rrGpaGQ9SlVqLVe8oJL6PsexPkA7326mEj/iiqHFBU+Pj/Ra5MEF6IjL2gJJQ44Ug6yLPqP4loOJRn4qUZRFMjzHH5MtGC7Dm1zQCUkOOfIsgzEmRbO+3+Tk6Lr0HcXfCuFpmlQliVsf4ZzFtbGYZkkHdu0+gJ1PqcZUEpB5HEPxitwxtKUFhWMHolaoqE7MFqAMZ5E5i1PNkVviQ+Ad27h4YQppJQw1qe2o9/XvEXCybdrwhwxoZ+tyhpnlvB2RGpcm6myW6G1AYnEW0DcQ3FKSxvGltcwxN+jO5Dpi11DGxs3EffPZzw8fQGhT2ervGCx4z3uHkv8AjT2psY8VAqqAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chat&quot;
+        title=&quot;Chat&quot;
+        src=&quot;/static/0459e32a1246a466bc3c2cf665cc742b/f058b/chat2.png&quot;
+        srcset=&quot;/static/0459e32a1246a466bc3c2cf665cc742b/c26ae/chat2.png 158w,
+/static/0459e32a1246a466bc3c2cf665cc742b/6bdcf/chat2.png 315w,
+/static/0459e32a1246a466bc3c2cf665cc742b/f058b/chat2.png 630w,
+/static/0459e32a1246a466bc3c2cf665cc742b/40601/chat2.png 945w,
+/static/0459e32a1246a466bc3c2cf665cc742b/78612/chat2.png 1260w,
+/static/0459e32a1246a466bc3c2cf665cc742b/a7115/chat2.png 2186w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Before project starts&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;UI 제작(css) 보다 기능 구현에 중점&lt;/li&gt;
+&lt;li&gt;패키지, 라이브러리 서칭&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Project folder structure&lt;/h5&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;practice-web-chat
+├── src
+│   ├── Index.js            ---&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; react Index.js &lt;span class=&quot;token function&quot;&gt;file&lt;/span&gt;
+│   ├── App.js              ---&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; react App.js &lt;span class=&quot;token function&quot;&gt;file&lt;/span&gt;
+│   ├── Login.js            ---&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; processing Login 
+│   └── Chat.js             ---&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; delivering message
+└── server.js               ---&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; express&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;socket.io, default userData setting, passport &lt;span class=&quot;token punctuation&quot;&gt;..&lt;/span&gt;.&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h5&gt;Dependencies&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Dependence&lt;/th&gt;
+&lt;th&gt;Version&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;express&lt;/td&gt;
+&lt;td&gt;^4.17.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;passport&lt;/td&gt;
+&lt;td&gt;^0.5.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;react&lt;/td&gt;
+&lt;td&gt;^18.0.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;socket.io&lt;/td&gt;
+&lt;td&gt;^4.5.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cors&lt;/td&gt;
+&lt;td&gt;^2.8.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;proxy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nodemon&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h5&gt;API Specifications&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Action&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;API&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Method&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Success Response&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Fail Response&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;get&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;isAuthenticated&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;user_info&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;null&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;post&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;/login&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;passport.authenticate&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;res.json(eUser)&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;null&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h5&gt;TODO&lt;/h5&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 로그인 시 닉네임 표시(props, useState)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; window localStorage 사용 -&gt; 이전 대화 내역 불러오기(useEffect)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; default user Data -&gt; 유저마다 profile 지정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bbe6ada4b8433381f1cc7508515019f0/0f246/chat3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51.26582278481012%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABw0lEQVQoz22S266bMBBF8xNVT8DGjK9gLgmQkDQ9VdX//6hVQc6tUh+WNC/e2sszh2gDS7eQ88R5WGn7haqfseNKc5pZ14nrjyuPx8R8akjjSo4eLy8USqOVQqkSrfXOoaoqxAb68U7oF9T8E5lvDNOVcP9NXH8x3DYedCmSU8R3I7Eb6KMjxERsM14EEeHgrMbWhsZGQm2pXcTGRIgtRWxRLiIu4HJPioFghTCc98DGCS5EfGqQ2mCt3RoqSlWitEKrEqPLXaMoS/TGpqUrTKXZbJTWqLJAleU+P5XVp7ITzxD7vZFtB1w7Mow9yzQwDpmh9zTJ4JzDilBpjTHmjerL/OTgxXFuRpbuSjtcUJeVcF/If+6k15XpNu/BKZ9olxtpvuKbnu2dWLu32pp/NLRSUOgX6spQ79sqOWrNN13x3RjKylIZiziP+LBjaqF+a/Qe+M7Bi+eUBmrr0anDhI62iUx9YszbViucHCmLAlUcUUWB1ur551/afQQ6sfSxY84LTZ7Q84JczsTXFf+4cLq+KXcn8uVGnC7YkPH2X+XPQKswRuFqi2wKYijrmqO1FM5hbEDE76eznZP4iDGbcv1f5b8BRRxRH41sxAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chat&quot;
+        title=&quot;Chat&quot;
+        src=&quot;/static/bbe6ada4b8433381f1cc7508515019f0/f058b/chat3.png&quot;
+        srcset=&quot;/static/bbe6ada4b8433381f1cc7508515019f0/c26ae/chat3.png 158w,
+/static/bbe6ada4b8433381f1cc7508515019f0/6bdcf/chat3.png 315w,
+/static/bbe6ada4b8433381f1cc7508515019f0/f058b/chat3.png 630w,
+/static/bbe6ada4b8433381f1cc7508515019f0/40601/chat3.png 945w,
+/static/bbe6ada4b8433381f1cc7508515019f0/0f246/chat3.png 1118w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 미 로그인 시 redirect&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; nodemon 사용하여 react app &amp;#x3C;&gt; express app 동시 구동
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; proxy, cors 등의 보안옵션&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 기타 보안옵션(credentials)&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 채팅 송신 시 emit, 수신 시 broadcast (socket.io)&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
