@@ -37,8 +37,8 @@ Biovision사에서 만든 모션 캡쳐 데이터 파일로, HEADER 영역과 MO
 ##### 설계
 ![Section](./001_skeleton.png)
 실제 사람의 뼈가 움직이는 원리를 이용하여 **관절(joint)**, 그리고 joint와 joint 사이, joint와 end site 사이의 길이
-즉, 팔과 다리는 offset 으료 표현됩니다. 
-하나의 join에 종속된 하위 객체들은 상위 join가 움직이면 함께 움직이며, 
+즉, 팔과 다리는 offset 으로 표현됩니다. 
+하나의 join에 종속된 하위 객체들은 상위 joint가 움직이면 함께 움직이며, 
 이러한 움직임을 stack에 저장하여 구현하였습니다. <br/>
 ![Section](./001_skeleton2.png)
 

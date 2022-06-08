@@ -10,7 +10,7 @@ description: Unity 3d 기반 안드로이드 게임 제작
 ![Game](./game5.png)
 ![Game](./game6.png)
 
-2015년 부산 게임 아카데미 모바일 게임 개발 과정을 수료과정 프로젝트 입니다. 
+2015년 부산 게임 아카데미 모바일 게임 개발 수료과정 프로젝트 입니다. 
 
 | 상세 | 설명                                    | 
 | :----- | :--------------------------------------- | 
@@ -52,15 +52,3 @@ description: Unity 3d 기반 안드로이드 게임 제작
   - IEnumerator MoveNpc
   - IEnumerator MoveFloor
   - IEnumerator MoveCol
-
-##### 설계
-![Section](./001_skeleton.png)
-실제 사람의 뼈가 움직이는 원리를 이용하여 **관절(joint)**, 그리고 joint와 joint 사이, joint와 end site 사이의 길이
-즉, 팔과 다리는 offset 으료 표현됩니다. 
-하나의 join에 종속된 하위 객체들은 상위 join가 움직이면 함께 움직이며, 
-이러한 움직임을 stack에 저장하여 구현하였습니다. <br/>
-![Section](./001_skeleton2.png)
-
-##### 전체 계층 구조
-![Section](./001_hir.png)
-

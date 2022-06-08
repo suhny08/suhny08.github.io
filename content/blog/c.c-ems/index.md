@@ -29,6 +29,6 @@ description: 지방자치단체(대구광역시) 에너지 절감 유도 사업
 
 ##### 개발 내용
 - 전력 모니터링 화면 개발
-- 데이터 시각화 라이브러리 Chart, Grid (rMate)
+- 데이터 시각화 Chart, Grid 
 - 전력 요금 계산을 위한 API 데이터 보정 
 - peak 혹은 비정상 에너지 alert
