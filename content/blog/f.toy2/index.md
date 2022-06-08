@@ -5,7 +5,7 @@ description: study 및 토이 프로젝트 2
 ---
 
 react와 socket으로 구현한 채팅 프로그램으로, 회원 인증(session), 채팅 기능을 갖고 있습니다.
-평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 차원의 toy project 입니다. 
+평소 middle ware를 직접 다룰 기회가 적었기 때문에, study 목적의 toy project 입니다. 
 
 ![Chat](./chat1.png)
 ![Chat](./chat2.png)
@@ -48,7 +48,7 @@ nodemon                |
 
 
 ##### TODO
-- [x] 로그인 시 닉네임 표시(props, useState)
+- [x] 로그인 시 메인화면&채팅화면 닉네임 표시 -> Route Link 의 state에 저장, props&useState로 사용
 - [x] window localStorage 사용 -> 이전 대화 내역 불러오기(useEffect)
 - [x] default user Data -> 유저마다 profile 지정
 ![Chat](./chat3.png)
