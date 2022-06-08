@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[교보생명 플랫폼기획팀 FrontEnd Developer]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 08:42:53 GMT</lastBuildDate><item><title><![CDATA[2014 캡스톤디자인]]></title><description><![CDATA[컴퓨터 그래픽스 이론을 기초로 하여 직접 팀원을 모집, 주제를 선정한 프로젝트 입니다.
-초기 목표는 모션 캡쳐 장비를 직접 신체에 부착하여 모션 데이터를 수집하는 것이었지만,
-장비 대여 및 기간의 한계가 있어, 기존의 BVH…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/a.capston/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/a.capston/</guid><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[교보생명 플랫폼기획팀 FrontEnd Developer]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 12:10:54 GMT</lastBuildDate><item><title><![CDATA[2016 대구 스마트 그리드(C-EMS)]]></title><description><![CDATA[대구광역시 내 공공기관 및 에너지 다소비 업체의 에너지 절감을 위한 업체/시간대/공단 단위 모니터링 즉, 스마트 그리드 시스템을 통해 전력 사용량 절감을 목표로 한 지방자치단체의 에너지 사업 입니다. 상세 설명 인원 개발 20+명 + DBA…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</guid><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 287px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5f2167384fe03b1ebb6f919f9506c12b/480fd/001_motion1.png&quot;
+    href=&quot;/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/ace37/003_cems1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 101.8987341772152%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABcRAAAXEQHKJvM/AAABwElEQVQ4y72UTU/CQBCG+XuciAcORgX6RTURQkI8iDFB/ofGEzGoAYzaQCjB1hBTuttS+DvdMbMupJQPCRgPb2Znmn36dma7iZN3I9SGQ6bYNlPtTyGb58o8X6HPiGybISP3+hYmsoMB030f8oTsJWRIvR5LZPt9phMC2mjEdpbjsDylIHW7AkgpB+ZdF3YR30spKD3zj4Gm+U8ONYyjEY9L650cCgDGODha4+tNQC0Gw5ijdKGmYu44iy+cf3Iv5nCFMwmfiZrieVAcDEAejxecz4DqOoeq63IphEDG8/ha9n2otFrQT6fhpl7n8CWH64AyIdxZ1vPgxPc5MBMEcF+pwFcyCQ/l8mI/1w4l8sm6AKNDXWxslErwVCzCXbUK55YFKv522zic90YMBR3qjgMvmgbWwQHcX1//AGcD+w0YnzROVQoC3sPnQgEuDAMkHIyY9q/nMH580F12OoVavQ52KgVXzSbkJhNe39zDCDAKxY3o6LLdhttajTuUhcMlYMY0Gd5neAWtlbiiVNdlMqVMFfmszkXIz8GWLIudBQGc+v528rzVtckE8h8fLJF+fAyPOx12ZBjhPkLGYaMRfgNpDpi/P1T/PAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABcRAAAXEQHKJvM/AAAD60lEQVQ4yyXS3W9TBRjH8XOPa89Le9rTl3Ud68tpe05fT9f3lq4bm6sQGR2jExg4lDkwghoCCEYWQILIogzfLiSYIFHiEhJDCEFQE70h6AViJPHCGBP5A/RCLr5m4+KT35M8yZPfxSOMD1cZa5UZaRYYqls0qzkalSz1coZqKU1xMEW5kKJSTD+xMq9KUs6bFLIJStk4FStBLW8itEdqjLbKDDcKNGsWtVJm9UApn6RgmQzmTPI544nsigRWJo6ViZFL6WSTUQYzMUrZBOWcgZAxdNJmjEwyRtqMkjIiJI0IphHBSISfpBHFXGHqJI3o6j6djJI2I2TMCFZKp5CJU86ZCF5FRJNtuMQeXIqIQ5ZQJBFNU1FVBy5VweWUcKsSqlNCczvwag78Hie9XpWAV8WnrXAR8HoQnqnnGavlGWsUaSSDxIMaihbC6Y3ylNSLTelDdEeQPVF8/QY2xYMou5GdbmSHjCQ7VguEPRIhTUT4/eEDPv38Gsu37jLdrpON9RO1nkULryde2UF8wwmyk2dpzX1G99gyRr2L5A7jDQdQdJ1mZyeJcD9l3UM2uxHh38ePuf7DPe789Cvb2lVa5RzjnQOEMlsZ2bPE9sU7zJ7/nne+fsj5m3+Qb+/F2ZsjHZljd3mYTncXtUaLUkihveUYwoXF07x/7gQLR16jO5xmbF2JytPzFDce4c1LP3Lm2i+cvf4b9//5j0vf3UWPj6LN7cP1yjKHzDy3L5xm3/EzNCIS65tthP0zG3nv9FGWzr3NtuE0zfIgRn03i5e/5Yt7f3Pxxs+8+vFtPrp5n1hzBm/1MInDW+nemuTkXIpHD46zcO5DhuIKm4cKCCcXjvLl1SssLi6xczRDycoQrcyyd+Ein1z9hrGthwgMzpBszuIyNtNXm6cvPcqRUx2W3yrz/OwEU9O7aBkq+19+CeHPvx5x5cplJienmGnFyWdSZNt7GSjtwJXcQm9lN4HKLJo1TbS5C1+ug97oMtzZgz9RpT9eIGJYrE9q3PjqEsIH757hwAvbGcpFea4RIW3o6MU2AXMd/ngVX7SIXy/ijVgEzSo+fZBAzELPFvEH1xIM6QQGYoykvBzcPo6wIeViwvLTrYWZqgwQDXpxaxq9fi8ezYVTkZHsIook4XQouFQHDkVCEm04HDKKLCFKIg3Dx0TOizBdi9CththSGWCqHiY64MOhqjidTmTZwdpwkHw1RaZg4NbcSNLKM8vYbHbsdjuiXURVXSSDTqoRFaFTCLK52M/si8PMv76J+YMTRPQgbrcbl9PJ+KYKh07tYP8bUxRLJn0+D5IksmbNGnp6erDbbMiiSGKtRssK8T8EvBK/4MUeIQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Motion&quot;
-        title=&quot;Motion&quot;
-        src=&quot;/static/5f2167384fe03b1ebb6f919f9506c12b/480fd/001_motion1.png&quot;
-        srcset=&quot;/static/5f2167384fe03b1ebb6f919f9506c12b/c26ae/001_motion1.png 158w,
-/static/5f2167384fe03b1ebb6f919f9506c12b/480fd/001_motion1.png 287w&quot;
-        sizes=&quot;(max-width: 287px) 100vw, 287px&quot;
+        alt=&quot;Cems&quot;
+        title=&quot;Cems&quot;
+        src=&quot;/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/f058b/003_cems1.png&quot;
+        srcset=&quot;/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/c26ae/003_cems1.png 158w,
+/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/6bdcf/003_cems1.png 315w,
+/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/f058b/003_cems1.png 630w,
+/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/ace37/003_cems1.png 666w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
@@ -31,36 +31,68 @@
     &lt;/span&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 286px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c45e1f6930be06d92f5d95d75ac52dc2/357e3/001_motion2.png&quot;
+    href=&quot;/static/dafee640813449d568236d0519f9f541/ace37/003_cems2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 102.53164556962024%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAABcRAAAXEQHKJvM/AAABpUlEQVQ4y72UT0sCQRjG/UJ+Aq/ZB/CgG6Zk+y/qUIThsUNIKHjvJgYe1NxSBAUD6STOOusqKh76Ks4Ts5pNi6a7hw4PM7M7/Hiefd99A5JhIFqtsWjtBb5VrTHp9Q2h9N0ycDmdsgvbxsV47Fu6beNqPmfHhQICOrWgEsJUQuBXymDA9NEIR7kcC/CNaprQhkPf4lCeMpzP45+Bpgl1vf7a+wIKgH3QvUA3SCcEMr8ngL05XMP0wQCniwWyz894yuWQmM8duOo18rcT7uqm08FHJILPYBDXvZ7zzJNDVQAqlELv9/FQLuNdkpBptXA+HkMj5ADgOqYI5BfjiwUei0V0EolN5E0KL0Cdn00TKdvGbbcLEg7jvlJBajJZQcVU24BiBTksZVlIjkZQhkPIloVsqYR0u43kZPLTAfscypQ6IGelFAnbdqB8H5/NHLeyWLhDIiuuPvw+y2Jzu3pxb2RNcMylub7xwZHdVVbWDrf+fjuB1u55qJgmzij1Ng83E3uHND6V/3jPxWGXs9lqYkuNBmKGwWKGAb+K1uvspNlEKJNZfgHiTMoqutbXPwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABcRAAAXEQHKJvM/AAAD00lEQVQ4y1XPS2xUBRTG8buAQpj3+9F53sfMvdN53el0CqW1tNDWIhFaIESwGpWIaAIiKUp1AUIMoAYIER1shKEvnkJBOg2SGqBuCAKJogQiJkqMYe2CxMXfzJSFLn45yVl83zlCOiGS+o9kXYVUVVeZSbkqlXoqKaOqIqoqkdBkUgkJPa2QTSno6RhCnRolEY+gxSOoVVFisRlqXJyhimgVmoiiRJDlSHVfp4lkkjNB9VmVBl1DiEkhKmQphCQGkaQQ4lOSHP4fuTKlMIocrhbXJSTSyRh6RiWvJyjkkggOmw2HvcKK2+3E5Xbg8Trx+V34az0Egj6CoVrCkSCRaJCIGKgGVy7OpjUK+TRNjToLG3WaClmEkNuKx+XE5Q3icHqw2d3Y7M6nHFgsFkxGA0bDPMwmAxazAbvditNpx+NxEg75UaQQcSVKTAoiZJUAWkxh7duf8Nz6nXT0vUvLms0Ulm8g1b4GpdCJVN9OurkLNd9GPNuMrzaIGPCgyhLhWj9epwNHpchsqATWktezvH+4zNbiNFuK19lUvMaWL6fZcuQqbxw4z6ZD51h34ArR146w/uMi+sLF9K1azrXpm5w6c5H9n+5HC7uRvBaErOSjZWET+8/eYN+Fu+ybuMeeS/fY+80v7Dpzm22lKbaPXGFj6SbCK0OsOHWZJct6WdHVzvXpO5Qvf8/Q8TFysRCK14yQk7y0LW5n33CZDwfPs7s0wa5SmR2lSbZ/dYn+4mn6iyfo/+IEa3cUeevQGJ0r19KYFOlb9xKre1fT09NLPh5Aq7XOBC7u6GDi57+YvP8bk/cfUn7wkAt37zByY4LSD7cY/fExw3f+ZPj2I47deszK199hyYI0py+VOTp2lvcGT9K6IE3CZ0LIiS7au5Yy9dPvTI0d5ruzJabGR7jy9TATx49zrnyR8UdPGP/jH048+JuxB0/o699Fe0Hj8thRzg8dYfTkGbpbG9F8lZdFJ60d3Yxe/ZXh0W85dnKKz4Ym2Ts4zsCBETZ/dJiNez7n1Z0HeaF/Nz1vDlDf2klO8dDZoPFMRqFVlynEvWQjdoR8zIcsSSTzzSjpBiJqCr8Yw+YJYLK5MVodzDOYqKmZw+xZs6mZVYPJYEQLOYi4jcyZOxfJbSAXsZCL2hDqZQ8+twOz2YzVYsZkNGGzWdEyEplGFX/Ih9XuxGJzYLbOsDucyCE3eiKKpsosaimwpDmDHvMjLGrTaHs2Q26+isvlJhKV0BuyLFvVxPI1LXT3dNO69HkCkorRZKlem0jEac5F2PByLwNbNzLwwTZeXLeK+TmNfwHDNCwotd7j8wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Motion&quot;
-        title=&quot;Motion&quot;
-        src=&quot;/static/c45e1f6930be06d92f5d95d75ac52dc2/357e3/001_motion2.png&quot;
-        srcset=&quot;/static/c45e1f6930be06d92f5d95d75ac52dc2/c26ae/001_motion2.png 158w,
-/static/c45e1f6930be06d92f5d95d75ac52dc2/357e3/001_motion2.png 286w&quot;
-        sizes=&quot;(max-width: 286px) 100vw, 286px&quot;
+        alt=&quot;Cems&quot;
+        title=&quot;Cems&quot;
+        src=&quot;/static/dafee640813449d568236d0519f9f541/f058b/003_cems2.png&quot;
+        srcset=&quot;/static/dafee640813449d568236d0519f9f541/c26ae/003_cems2.png 158w,
+/static/dafee640813449d568236d0519f9f541/6bdcf/003_cems2.png 315w,
+/static/dafee640813449d568236d0519f9f541/f058b/003_cems2.png 630w,
+/static/dafee640813449d568236d0519f9f541/ace37/003_cems2.png 666w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3700f78919ade4f59b32f44b9e551e2f/eb2af/003_cems3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.18987341772153%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJElEQVQozwEZA+b8AGNgXWNgX15bW1lWVldUUlFNSk9LRlFOSktJQ0lFP0VBPERBO0JAPEE/PkA+PTw5Nzo1NCgmJR4eHhwbGwAqIhszJhc3Kho8Kxw9LR4+NC8yMzcmJioRDhEdHB0bHBojJSUqKy9GSVJ1eYNNU1wqMS8iKiwzKiRaQCoAaU9DX1V0ZVZxbWSBe2dtkXRbgI2rT15+aIWaQ1eBNUVKQU5dMz1bhpqz1PT8comaPUdWP0puUkQ4g10+AGdQX0FftURdrEZZymNimYxtTV9wmJCv1pnB1E5jkkRRYDdCUl1rkpe925m9yVpfc3aEXmtfX1dCOYxjQQB1WFhZYJxjZZdgaKx6bomNbEpPXnlLWXw0Pl9CUXBLW2Q/S1pNXH9KWnpJVnVFTGhMYFg4VU9gT0STZkMAhGNPdGR1c2Rygl9olmxkjG5OPkdeUGZ8i6ewX2+GOk9LTFtnTl+GV3CXYHehT2qSZWZ5UEVkXlRLlWpEAHZfYkxctEhet3JPmotee4JnST1IZJ/S38vp9lFdeURaWk1kakdgkUxkoFNrokxtnoCSiWBPaVlPSJVrRQB1XFpRWZxUXZ5kW6R7WnlxUTlWbYlhfp86Sms5S2NbWndDRWZYaoRfbolqfJRNZJQ9VZAwS4FeTUCYbkkAiVs6jmJCi2NFjWdQiF5CMyglGBwoGx8pJiw0LzZALzY6LzU+RENVTUtcU09eRk9pPElwLjtfWkk6lmpFAHpwbYx/dYN8dXB2fmtmZh4cIBgZHB8iJyAkKx4fHyYlIy4vMSstLi0wMSsuLysrKiwqJiEjIl1KOZ5vSQBFTVxGVmtGVV59iJFtfYcTFxcUFRkNDRARERUXGBscHyAdJS8nKS4nKS4iIycdHiMYGR0XGRwaFhQtIhgAQUNMTFVlQklRytPYubKzEwwRDg8SDg4QDAwQGBcaMS0tLCsuHR0gFBYbGBkcGRkcEBEVJCUoOjxAGRseAGxvZkRCPi0sLignJisiH0UuMCYgGhUTERcWFjcvKXpeSXFYRyAgIEU8NRoaGxITFgUGCIOEidDS1zAwMFv199HVq26sAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cems&quot;
+        title=&quot;Cems&quot;
+        src=&quot;/static/3700f78919ade4f59b32f44b9e551e2f/f058b/003_cems3.png&quot;
+        srcset=&quot;/static/3700f78919ade4f59b32f44b9e551e2f/c26ae/003_cems3.png 158w,
+/static/3700f78919ade4f59b32f44b9e551e2f/6bdcf/003_cems3.png 315w,
+/static/3700f78919ade4f59b32f44b9e551e2f/f058b/003_cems3.png 630w,
+/static/3700f78919ade4f59b32f44b9e551e2f/40601/003_cems3.png 945w,
+/static/3700f78919ade4f59b32f44b9e551e2f/eb2af/003_cems3.png 954w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;컴퓨터 그래픽스 이론을 기초로 하여 직접 팀원을 모집, 주제를 선정한 프로젝트 입니다.
-초기 목표는 모션 캡쳐 장비를 직접 신체에 부착하여 모션 데이터를 수집하는 것이었지만,
-장비 대여 및 기간의 한계가 있어, 기존의 BVH 포맷 데이터를 표현하는 방향으로 진행하였습니다.&lt;/p&gt;
+&lt;p&gt;대구광역시 내 공공기관 및 에너지 다소비 업체의 에너지 절감을 위한 업체/시간대/공단 단위 모니터링 즉, 스마트 그리드 시스템을 통해 전력 사용량 절감을 목표로 한 지방자치단체의 에너지 사업 입니다.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -71,172 +103,49 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;인원&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;IT융합응용공학 4학년 4명&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;개발 20+명 + DBA 1명&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;기간&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;2학기&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;참고도서&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;OpenGL로 배우는 3차원 컴퓨터 그래픽스(한빛아카데미)&lt;br/&gt; OpenGL SUPER BIBLE 3(정보문화사)&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1년&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;Dependencies&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;C++ OpenGL&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Spring framework&lt;br/&gt;Java Script(Angular.js, nginx)&lt;br/&gt;bootstrap(CSS)&lt;br/&gt;tibero(RDBMS)&lt;br/&gt;rMate(Chart UI)&lt;br/&gt;크리스탈 리포트&lt;br/&gt;MagGauge(DB성능관리)&lt;br/&gt;한전I-SMART API&lt;br/&gt;Jenkins&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;br/&gt;
-&lt;h2&gt;OpenGL을 이용한 BVH 모션캡쳐&lt;/h2&gt;
-&lt;h5&gt;BVH란?&lt;/h5&gt;
-&lt;p&gt;Biovision사에서 만든 모션 캡쳐 데이터 파일로, HEADER 영역과 MOTION 영역으로 나누어져 있습니다.&lt;/p&gt;
+&lt;h5&gt;Before project starts&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;HEADER
+&lt;li&gt;약 300+여개 수용가 영입 목표
 &lt;ul&gt;
-&lt;li&gt;HIERARCHY&lt;/li&gt;
-&lt;li&gt;ROOT: 전체 구조의 기본이 되며 한 파일당 하나의 ROOT만 존재
-&lt;ul&gt;
-&lt;li&gt;OFFSET: 이후에 ‘{‘ 다음에 오며, X, Y, Z로 이루어져 있으며 부모로부터의 길이와 방향을 나타냄&lt;/li&gt;
-&lt;li&gt;CHANNELS: OFFSET다음에 오며 채널 개수와 type을 표현, Z/X/Y rotation 순으로 입력되어 있음&lt;/li&gt;
-&lt;li&gt;JOINT: 관절을 나타내며 연결된 일련의 객체의 root 역할을 하며, 재귀 구조가 기작되는 부분&lt;/li&gt;
+&lt;li&gt;각 수용가의 다양한 모니터 환경에 맞추기 위한 웹 접근성 준수와 반응형 웹 구축&lt;/li&gt;
+&lt;li&gt;수용가 별 권한 관리&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;END SITE: 재귀 구조의 마지막을 나타냄&lt;/li&gt;
+&lt;li&gt;전력량 수집
+&lt;ul&gt;
+&lt;li&gt;한전 I-SMART (API)&lt;/li&gt;
+&lt;li&gt;누리텔레콤&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;MOTION&lt;/li&gt;
+&lt;li&gt;요금량 리포트 발행
+&lt;ul&gt;
+&lt;li&gt;크리스탈 리포트&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ebf849ca72bbc5f18a23ceb20aa9f870/41be6/001_section.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABE5AAAVrwE7yxYGAAABfElEQVQ4y61R2XKjMBDk/z8vT4uzrnWIbRxxSWh0I/UWyJCQXVfyEKqm1COYpnu6ODz/wun3Cd4F/MRTAAkpJhyPR5yvF/RCgDUd2m4ASQWr7VKaNJzJ2JDZ8HanDIIPMyEQgsfhuUR1qjC0fHk5ExhtFmxNHnDGwVm34O2bO1ZSwVufCVOKyGfCoSzx5+UEToSm7dH2A0ZBsCqr0pQJHlqeSVLKjXcOt8sNt8sbiAiKFPSsROls/27PaoMUI/LsvopVWa64/alhDKOUUM5CWQtpNMI07dSkVck+FGAKAU3LMPIR3vlvJ/qQMMaIaQrLwsuyRPVaQUhC13EMXGwBrGnPtZLlM33eYb4I3qM+X3E91+CcYxQSRGrZH41qSXlN9SHhu/yIGN931PcdSBHcFKCdhZ/CQ8sfRRVCcFhnv9zNPrx9fZwpDk8l6qqGuyc5SLnZ+B/xV3cF6wacWYMLa/DaMLwwBsY53oYBnRzRjgJ13y99f+9nnHv5j+W/QsT4L1zm4iQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Section&quot;
-        title=&quot;Section&quot;
-        src=&quot;/static/ebf849ca72bbc5f18a23ceb20aa9f870/f058b/001_section.png&quot;
-        srcset=&quot;/static/ebf849ca72bbc5f18a23ceb20aa9f870/c26ae/001_section.png 158w,
-/static/ebf849ca72bbc5f18a23ceb20aa9f870/6bdcf/001_section.png 315w,
-/static/ebf849ca72bbc5f18a23ceb20aa9f870/f058b/001_section.png 630w,
-/static/ebf849ca72bbc5f18a23ceb20aa9f870/41be6/001_section.png 638w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;설계&lt;/h5&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 369px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2c676d1f3e683e349a29176d976429de/e0cdb/001_skeleton.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 141.13924050632912%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAABcRAAAXEQHKJvM/AAADN0lEQVRIx51VW1PaUBDmd/epM53pU5861r50ptbLtNXWUUfHK9VprRdE0CAoIAYTICQhCcTcSE7ydQgkDZcwtmeGYc/unu/s7rfZk0BkeZ4XCKHsdE0oUhOEkNAnsIX+kZWIgkUd/R8ApnSGne+zoCt3vs0l5HmAY1EOFnWRxNz7V2Cq5al+UyPUqlWoDxVfbtYq2Fydg+04IIYBmbqGo+tTIhxJs7f0Wg1S5tKXFUVCNpv2ZVuW0UpfwIvUcwxwrG6Dfbdr4fJ0B1epJA5/bGNnYwk316mJvlE5MXpTIPeY3d9cwteVz/iysYfP87PInB/CssxY0KEIiWnCVjv91LoWFIkDXaYwM7+KF29X8HFhEZLAgqszmEZkCGhJErjkATzTRFvmQLoGqHweL999w+vZRcwsrMPSOxCbLAjpQnt8hJzNjoEO1dDpdGCZJtJUwddxrQ7OMjkc7G+BKjFwHBui3EblkYHdaEBjmPgaBopOi0ejyftyW+JxlTnH15VliFwVHrFhu0CpUgKBO5HpxGhx+dQZ1ELel5Pby/gw8wpv37zE9e9V6KoIuB6k3BV0gR8CnMiyrquoF29gCYK/L+bT2Fz9hIvTJFI/16HpTyC6DvH8DLVyYSLbieiGpu/xpGvhgLi5OkE2fQwqe4LUSRLNOh2mdl8pQZaleJY17QnM40PfwXXhui5q1bu/n6MqocXXwoOq2kGxWBgnJRAMXQMhzlCB2WoxHFuyyEESuf7EcfuEaLoG27bja+gDNxqwVRW94dUDDA63FQHiIEJvkAVcNyblSMhKjoJCUXA94pMS6NW2CJYezETHhnD8y2/u2JSDf9dx/JsluYXtjSU4g5TqTBHJvbXQR2dZkG53+nCIGrh6FYf7a8F0A8+x2N1aCWsaN2gTce+EyLOoMfehI3FsFHIXMAwj7IRJT0Fi5LrQ2GzQEJps5ICHPJWCaehTH6vEaPiBscFWIPL1MJre6kVoWcbz3pRRQJYu+L0X7bvbXApPqvJ8wOjhbOYc9To70PWJOD39CYFv/l+ER0c7IWDA7NHRLmi6PHTxswGrD7eQJWGg7x8ul3JQlNa/pTypJ+MepEmAfwArb2yJODB5xgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Section&quot;
-        title=&quot;Section&quot;
-        src=&quot;/static/2c676d1f3e683e349a29176d976429de/e0cdb/001_skeleton.png&quot;
-        srcset=&quot;/static/2c676d1f3e683e349a29176d976429de/c26ae/001_skeleton.png 158w,
-/static/2c676d1f3e683e349a29176d976429de/6bdcf/001_skeleton.png 315w,
-/static/2c676d1f3e683e349a29176d976429de/e0cdb/001_skeleton.png 369w&quot;
-        sizes=&quot;(max-width: 369px) 100vw, 369px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-실제 사람의 뼈가 움직이는 원리를 이용하여 &lt;strong&gt;관절(joint)&lt;/strong&gt;, 그리고 joint와 joint 사이, joint와 end site 사이의 길이
-즉, 팔과 다리는 offset 으료 표현됩니다.
-하나의 join에 종속된 하위 객체들은 상위 join가 움직이면 함께 움직이며,
-이러한 움직임을 stack에 저장하여 구현하였습니다. &lt;br/&gt;
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 539px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3bd12ce6ed63e555bb8346954995a336/10f9a/001_skeleton2.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 74.0506329113924%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACZElEQVQ4y41Uy27TQBTNJ7JAIBbAL7DiA5AQL7GJIJXKgk1ZIERboBQaWpXSt1CkODTvhyGxEztv2xl7/DzoTlKTiC5ypSON586ce+5jnAiCANxxIFerqJfLqBQK0FUVZIy7sGyOMAwFlrGE7ThAGMLodjHSNAw7HbDRSDjvrR0guXUq1q7ngXMO27YFHMeBNR7B9/0FJMhJ0cemid5gALXTwdgwhPNmagePN44FYRhF8DwPjDFBNhoOkT3YA3dd2IzFQRKWZYlFr9XCn2IRFUlCu16Dxzlur+7i2eaMMIxEkMuLRFK7kOIAtE8ZCELXda+sx62VNB6tH80UIiYkUAl+fvsCXVXgzfZjQlpMVYQIghBRFAncXU3jxfa58NElOmeaJkzTwITZ+HW4j36nLcivJJy3CIBSTKLf3J6p80RqbFYv7nqoZzMYdvVFQoroB4EYlUI2i0o+D/W3LGr24O06Xu/sTQNE0ULKDuconR9jPOhNGzOvkA73NA1FSUJBktAolTCxTFxP7ePh+xNBGITTLpNKAucuCqeHGPW6i4SkkCSz8RiaLKPdkKHLMhzLwp1Xu3i68a8pRDiZTEAiDMPAj3drGGid5WpIduNlGs8/nsWDTZcs0wSzbbCJhczXD+iqLbie///YBGEoOkmgmlJTjk5WkM9/Eusg8IXC+Rq2ygX0tbZI/3IeRcr0nrvtNi4yGZSkHJq1KnwvwP03W0h9/h43hc4R6SU4zaPrxt/x0yN1zUZDNKWUy0FXFGLAtWQaTzbPZk1Z8udAkemyoevoKwoGigJrOBTOotpHz2CxwmXwF4ijbSYZwlbgAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Section&quot;
-        title=&quot;Section&quot;
-        src=&quot;/static/3bd12ce6ed63e555bb8346954995a336/10f9a/001_skeleton2.png&quot;
-        srcset=&quot;/static/3bd12ce6ed63e555bb8346954995a336/c26ae/001_skeleton2.png 158w,
-/static/3bd12ce6ed63e555bb8346954995a336/6bdcf/001_skeleton2.png 315w,
-/static/3bd12ce6ed63e555bb8346954995a336/10f9a/001_skeleton2.png 539w&quot;
-        sizes=&quot;(max-width: 539px) 100vw, 539px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;전체 계층 구조&lt;/h5&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/25150114c6297183f299a10f29d8a97e/21b4d/001_hir.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 67.72151898734178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABcRAAAXEQHKJvM/AAADEklEQVQ4y61USWwcRRT9PeZqyMEiHByQlRNILAIJkQsHligiwiLxLB7P0tPds3jGmSS2E8aKBQgQKJIVDpFn66W6e9rjeEuQwoF4uruWnhk7NlIuWQ5IOXLhwDFnVB0hDuGE8qXS15fqv1//6b0CeN7x4dXbkNWxIBlEkBEVUqovFCwG/+S06gvV7gAube4LF28MIa1hQUKU94Cok2cB37myBikVQ1Z7eiHRdCFvMphuecABE00P5jf24Kuff4OlnQNItj3IGYQPCnueiRX3kTCj+mNpDY9lNHwk1nCPyiYdjTfdV/ImezHWcI9dWB+OLt86fLW2fTA63fLGRZ2MJpou3ybCgVOq/y9gFgUgI3KnYLHbBYu1ZETvlWz2bc4gvxdMellG9EHJZrMFiz0uWmxORvShYtJsRsMQa7h8qxfyJhWi9V7k0tb+CKSau/Gc7i8rJq2VbFaUDLJS7gQJySDXChZbFHXyl4LogmLSJwqitayO/5QMsqiY9GTeZO/KiIKCKETrPbi8tQ+Q07wvpo0BnLn+a8jb5PU7kGp7cHa1B6Luf5TRcEfU8WeJputIBpnM6ritIBqfaftORsP5OaefmHP6nydbXvLLrbvfQazlg2TglZId/JDR8Px0y1MVRMW06m9mVC8mIfpj3qQfp1X8k2LST3MG4fXprI6/zuk4yqlREN2UEDmxtHMgwS/3/4Bk2x9Pqf54RsNH4013omgHY2dXdyeqTvDmwsZe9Hx38HrF6cfn14dvLGzsnbm4PnzrXHcwWekE71W7g+H57qCRVv3i0s6BDhOLNgcMZcCJ5rKZ7fTDumQHJ4oWqxct9omok0bJDk7lTXZt1g4mZUSv5nQ8kzOILyO6Kur4WG377gdwvHYjFDEXt6gTIdnyhKIdgKjjSHVtABWnD7M2C7VX7gRhzTPXKud6qt57eareeyna6MGVm4f/7Z5y52nTubW+UHH6I+VOwJ00UnECoez0w1yw2Eiq7UWm6j0Iz+qusHzzMPK/7Mpf2yQPAV6rAt9opu3D+9/fgre/2X7uXwP8Daurm5wENqvpAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Section&quot;
-        title=&quot;Section&quot;
-        src=&quot;/static/25150114c6297183f299a10f29d8a97e/f058b/001_hir.png&quot;
-        srcset=&quot;/static/25150114c6297183f299a10f29d8a97e/c26ae/001_hir.png 158w,
-/static/25150114c6297183f299a10f29d8a97e/6bdcf/001_hir.png 315w,
-/static/25150114c6297183f299a10f29d8a97e/f058b/001_hir.png 630w,
-/static/25150114c6297183f299a10f29d8a97e/40601/001_hir.png 945w,
-/static/25150114c6297183f299a10f29d8a97e/78612/001_hir.png 1260w,
-/static/25150114c6297183f299a10f29d8a97e/21b4d/001_hir.png 1280w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2015 모바일 게임 개발]]></title><description><![CDATA[2015년 부산 게임 아카데미 모바일 게임 개발 과정을 수료과정 프로젝트 입니다. 상세 설명 인원 개발 3명 + 디자인 3명 기간 2개월 참고도서 OpenGL로 배우는 3차원 컴퓨터 그래픽스(한빛아카데미) OpenGL SUPER BIBLE…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/b.game/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/b.game/</guid><content:encoded>&lt;p&gt;&lt;span
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;개발 내용&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;전력 모니터링 화면 개발&lt;/li&gt;
+&lt;li&gt;데이터 시각화 라이브러리 Chart, Grid (rMate)&lt;/li&gt;
+&lt;li&gt;전력 요금 계산을 위한 API 데이터 보정&lt;/li&gt;
+&lt;li&gt;peak 혹은 비정상 에너지 alert&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[2015 모바일 게임 개발]]></title><description><![CDATA[2015년 부산 게임 아카데미 모바일 게임 개발 과정을 수료과정 프로젝트 입니다. 상세 설명 인원 개발 3명 + 디자인 3명 기간 2개월 참고도서 OpenGL로 배우는 3차원 컴퓨터 그래픽스(한빛아카데미) OpenGL SUPER BIBLE…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/b.game/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/b.game/</guid><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 472px; &quot;
     &gt;
@@ -492,32 +401,31 @@
 이러한 움직임을 stack에 저장하여 구현하였습니다. &lt;br/&gt;
 &lt;img src=&quot;./001_skeleton2.png&quot; alt=&quot;Section&quot;&gt;&lt;/p&gt;
 &lt;h5&gt;전체 계층 구조&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;./001_hir.png&quot; alt=&quot;Section&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2016 대구 스마트 그리드(C-EMS)]]></title><description><![CDATA[대구광역시에 위치한 공단, 공장, 기관의 전력 사용량을 실시간으로 감시하고 데이터를 분석하여
-전력 사용량 절감을 유도하는 스마트 그리드 기반의 프로젝트입니다. 상세 설명 인원 개발 20+명 + DBA 1명 기간 1년 Dependencies…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/c.c-ems/</guid><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;img src=&quot;./001_hir.png&quot; alt=&quot;Section&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2014 캡스톤디자인]]></title><description><![CDATA[컴퓨터 그래픽스 이론을 기초로 하여 직접 팀원을 모집, 주제를 선정한 프로젝트 입니다.
+초기 목표는 모션 캡쳐 장비를 직접 신체에 부착하여 모션 데이터를 수집하는 것이었지만,
+장비 대여 및 기간의 한계가 있어, 기존의 BVH…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/a.capston/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/a.capston/</guid><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 287px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/ace37/003_cems1.png&quot;
+    href=&quot;/static/5f2167384fe03b1ebb6f919f9506c12b/480fd/001_motion1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABcRAAAXEQHKJvM/AAAD60lEQVQ4yyXS3W9TBRjH8XOPa89Le9rTl3Ud68tpe05fT9f3lq4bm6sQGR2jExg4lDkwghoCCEYWQILIogzfLiSYIFHiEhJDCEFQE70h6AViJPHCGBP5A/RCLr5m4+KT35M8yZPfxSOMD1cZa5UZaRYYqls0qzkalSz1coZqKU1xMEW5kKJSTD+xMq9KUs6bFLIJStk4FStBLW8itEdqjLbKDDcKNGsWtVJm9UApn6RgmQzmTPI544nsigRWJo6ViZFL6WSTUQYzMUrZBOWcgZAxdNJmjEwyRtqMkjIiJI0IphHBSISfpBHFXGHqJI3o6j6djJI2I2TMCFZKp5CJU86ZCF5FRJNtuMQeXIqIQ5ZQJBFNU1FVBy5VweWUcKsSqlNCczvwag78Hie9XpWAV8WnrXAR8HoQnqnnGavlGWsUaSSDxIMaihbC6Y3ylNSLTelDdEeQPVF8/QY2xYMou5GdbmSHjCQ7VguEPRIhTUT4/eEDPv38Gsu37jLdrpON9RO1nkULryde2UF8wwmyk2dpzX1G99gyRr2L5A7jDQdQdJ1mZyeJcD9l3UM2uxHh38ePuf7DPe789Cvb2lVa5RzjnQOEMlsZ2bPE9sU7zJ7/nne+fsj5m3+Qb+/F2ZsjHZljd3mYTncXtUaLUkihveUYwoXF07x/7gQLR16jO5xmbF2JytPzFDce4c1LP3Lm2i+cvf4b9//5j0vf3UWPj6LN7cP1yjKHzDy3L5xm3/EzNCIS65tthP0zG3nv9FGWzr3NtuE0zfIgRn03i5e/5Yt7f3Pxxs+8+vFtPrp5n1hzBm/1MInDW+nemuTkXIpHD46zcO5DhuIKm4cKCCcXjvLl1SssLi6xczRDycoQrcyyd+Ein1z9hrGthwgMzpBszuIyNtNXm6cvPcqRUx2W3yrz/OwEU9O7aBkq+19+CeHPvx5x5cplJienmGnFyWdSZNt7GSjtwJXcQm9lN4HKLJo1TbS5C1+ug97oMtzZgz9RpT9eIGJYrE9q3PjqEsIH757hwAvbGcpFea4RIW3o6MU2AXMd/ngVX7SIXy/ijVgEzSo+fZBAzELPFvEH1xIM6QQGYoykvBzcPo6wIeViwvLTrYWZqgwQDXpxaxq9fi8ezYVTkZHsIook4XQouFQHDkVCEm04HDKKLCFKIg3Dx0TOizBdi9CththSGWCqHiY64MOhqjidTmTZwdpwkHw1RaZg4NbcSNLKM8vYbHbsdjuiXURVXSSDTqoRFaFTCLK52M/si8PMv76J+YMTRPQgbrcbl9PJ+KYKh07tYP8bUxRLJn0+D5IksmbNGnp6erDbbMiiSGKtRssK8T8EvBK/4MUeIQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 101.8987341772152%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABcRAAAXEQHKJvM/AAABwElEQVQ4y72UTU/CQBCG+XuciAcORgX6RTURQkI8iDFB/ofGEzGoAYzaQCjB1hBTuttS+DvdMbMupJQPCRgPb2Znmn36dma7iZN3I9SGQ6bYNlPtTyGb58o8X6HPiGybISP3+hYmsoMB030f8oTsJWRIvR5LZPt9phMC2mjEdpbjsDylIHW7AkgpB+ZdF3YR30spKD3zj4Gm+U8ONYyjEY9L650cCgDGODha4+tNQC0Gw5ijdKGmYu44iy+cf3Iv5nCFMwmfiZrieVAcDEAejxecz4DqOoeq63IphEDG8/ha9n2otFrQT6fhpl7n8CWH64AyIdxZ1vPgxPc5MBMEcF+pwFcyCQ/l8mI/1w4l8sm6AKNDXWxslErwVCzCXbUK55YFKv522zic90YMBR3qjgMvmgbWwQHcX1//AGcD+w0YnzROVQoC3sPnQgEuDAMkHIyY9q/nMH580F12OoVavQ52KgVXzSbkJhNe39zDCDAKxY3o6LLdhttajTuUhcMlYMY0Gd5neAWtlbiiVNdlMqVMFfmszkXIz8GWLIudBQGc+v528rzVtckE8h8fLJF+fAyPOx12ZBjhPkLGYaMRfgNpDpi/P1T/PAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cems&quot;
-        title=&quot;Cems&quot;
-        src=&quot;/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/f058b/003_cems1.png&quot;
-        srcset=&quot;/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/c26ae/003_cems1.png 158w,
-/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/6bdcf/003_cems1.png 315w,
-/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/f058b/003_cems1.png 630w,
-/static/fcfdfc9fa20f181ac0ed1cbf10f438dd/ace37/003_cems1.png 666w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        alt=&quot;Motion&quot;
+        title=&quot;Motion&quot;
+        src=&quot;/static/5f2167384fe03b1ebb6f919f9506c12b/480fd/001_motion1.png&quot;
+        srcset=&quot;/static/5f2167384fe03b1ebb6f919f9506c12b/c26ae/001_motion1.png 158w,
+/static/5f2167384fe03b1ebb6f919f9506c12b/480fd/001_motion1.png 287w&quot;
+        sizes=&quot;(max-width: 287px) 100vw, 287px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
@@ -526,69 +434,36 @@
     &lt;/span&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 286px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dafee640813449d568236d0519f9f541/ace37/003_cems2.png&quot;
+    href=&quot;/static/c45e1f6930be06d92f5d95d75ac52dc2/357e3/001_motion2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABcRAAAXEQHKJvM/AAAD00lEQVQ4y1XPS2xUBRTG8buAQpj3+9F53sfMvdN53el0CqW1tNDWIhFaIESwGpWIaAIiKUp1AUIMoAYIER1shKEvnkJBOg2SGqBuCAKJogQiJkqMYe2CxMXfzJSFLn45yVl83zlCOiGS+o9kXYVUVVeZSbkqlXoqKaOqIqoqkdBkUgkJPa2QTSno6RhCnRolEY+gxSOoVVFisRlqXJyhimgVmoiiRJDlSHVfp4lkkjNB9VmVBl1DiEkhKmQphCQGkaQQ4lOSHP4fuTKlMIocrhbXJSTSyRh6RiWvJyjkkggOmw2HvcKK2+3E5Xbg8Trx+V34az0Egj6CoVrCkSCRaJCIGKgGVy7OpjUK+TRNjToLG3WaClmEkNuKx+XE5Q3icHqw2d3Y7M6nHFgsFkxGA0bDPMwmAxazAbvditNpx+NxEg75UaQQcSVKTAoiZJUAWkxh7duf8Nz6nXT0vUvLms0Ulm8g1b4GpdCJVN9OurkLNd9GPNuMrzaIGPCgyhLhWj9epwNHpchsqATWktezvH+4zNbiNFuK19lUvMaWL6fZcuQqbxw4z6ZD51h34ArR146w/uMi+sLF9K1azrXpm5w6c5H9n+5HC7uRvBaErOSjZWET+8/eYN+Fu+ybuMeeS/fY+80v7Dpzm22lKbaPXGFj6SbCK0OsOHWZJct6WdHVzvXpO5Qvf8/Q8TFysRCK14yQk7y0LW5n33CZDwfPs7s0wa5SmR2lSbZ/dYn+4mn6iyfo/+IEa3cUeevQGJ0r19KYFOlb9xKre1fT09NLPh5Aq7XOBC7u6GDi57+YvP8bk/cfUn7wkAt37zByY4LSD7cY/fExw3f+ZPj2I47deszK199hyYI0py+VOTp2lvcGT9K6IE3CZ0LIiS7au5Yy9dPvTI0d5ruzJabGR7jy9TATx49zrnyR8UdPGP/jH048+JuxB0/o699Fe0Hj8thRzg8dYfTkGbpbG9F8lZdFJ60d3Yxe/ZXh0W85dnKKz4Ym2Ts4zsCBETZ/dJiNez7n1Z0HeaF/Nz1vDlDf2klO8dDZoPFMRqFVlynEvWQjdoR8zIcsSSTzzSjpBiJqCr8Yw+YJYLK5MVodzDOYqKmZw+xZs6mZVYPJYEQLOYi4jcyZOxfJbSAXsZCL2hDqZQ8+twOz2YzVYsZkNGGzWdEyEplGFX/Ih9XuxGJzYLbOsDucyCE3eiKKpsosaimwpDmDHvMjLGrTaHs2Q26+isvlJhKV0BuyLFvVxPI1LXT3dNO69HkCkorRZKlem0jEac5F2PByLwNbNzLwwTZeXLeK+TmNfwHDNCwotd7j8wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 102.53164556962024%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAABcRAAAXEQHKJvM/AAABpUlEQVQ4y72UT0sCQRjG/UJ+Aq/ZB/CgG6Zk+y/qUIThsUNIKHjvJgYe1NxSBAUD6STOOusqKh76Ks4Ts5pNi6a7hw4PM7M7/Hiefd99A5JhIFqtsWjtBb5VrTHp9Q2h9N0ycDmdsgvbxsV47Fu6beNqPmfHhQICOrWgEsJUQuBXymDA9NEIR7kcC/CNaprQhkPf4lCeMpzP45+Bpgl1vf7a+wIKgH3QvUA3SCcEMr8ngL05XMP0wQCniwWyz894yuWQmM8duOo18rcT7uqm08FHJILPYBDXvZ7zzJNDVQAqlELv9/FQLuNdkpBptXA+HkMj5ADgOqYI5BfjiwUei0V0EolN5E0KL0Cdn00TKdvGbbcLEg7jvlJBajJZQcVU24BiBTksZVlIjkZQhkPIloVsqYR0u43kZPLTAfscypQ6IGelFAnbdqB8H5/NHLeyWLhDIiuuPvw+y2Jzu3pxb2RNcMylub7xwZHdVVbWDrf+fjuB1u55qJgmzij1Ng83E3uHND6V/3jPxWGXs9lqYkuNBmKGwWKGAb+K1uvspNlEKJNZfgHiTMoqutbXPwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cems&quot;
-        title=&quot;Cems&quot;
-        src=&quot;/static/dafee640813449d568236d0519f9f541/f058b/003_cems2.png&quot;
-        srcset=&quot;/static/dafee640813449d568236d0519f9f541/c26ae/003_cems2.png 158w,
-/static/dafee640813449d568236d0519f9f541/6bdcf/003_cems2.png 315w,
-/static/dafee640813449d568236d0519f9f541/f058b/003_cems2.png 630w,
-/static/dafee640813449d568236d0519f9f541/ace37/003_cems2.png 666w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3700f78919ade4f59b32f44b9e551e2f/eb2af/003_cems3.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 65.18987341772153%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJElEQVQozwEZA+b8AGRhXmRhYF9cXFtXV1hVUlJOSk9MR1FOSkxJRElGQEZCPUVCPEJBPUJBQENAPz07ODo2NCknJh8fHh0cGwAsIxw0KBk4Kxw8LR4+LiA/NS8zNDkoKCwTEBQeHR8cHRskJiYrLDBHSlN2eoNOU1srMi8kKy0zKyRaQCsAak9EXlR2Y1VybGOEemdvknVbgI2rUGCAaoidRFiDNUdMQU5eMz5ch5u11PX9coqaPkhXQUtwU0Q4hV4/AGdRX0FftkRcrEZZymNimYxtTV9wmJCw15rD1k9jk0RRYDdDUlxrkpe/3Jm+ylpfc3aEXmxfYFdCOYxjQQB2WFhZYJxjZZdhaKx6bomObEpPXnhLWXs0PV9CUXBLW2Q/S1pNXH5JWHlJVXRFS2hMYFg4VU5gT0WTZkMAhGNPc2R2cmR0gl9qlmxljW5OPkdeUGd8i6ewX2+FOk9LTFtoTmCFV3CWX3agT2qSZWV6UERkXlRLlWpEAHZfYktctEhet3NPmoxfe4JoST1IZZ/R3sro9lFdeURaWk1kakdhkUtkoFNsoktsnYCSiWBPaVlOSJVrRQB1XFpRWZpVXZxlW6J6WnlxUDlWbYhhfp46Smo5SmNaWXZDRWZYaoNfbYlpe5NNZJQ8VZAwS4BfTUCYb0kAiVs6jWFCi2NFjWdQiF1CMyglGBwoGx8pJiw0MDdALzY6LzU+RERVTktdVE9fR1BqPElxLzxfW0k6lmpFAHpxbox/doN8dnB3f2xmZx4dIBkaHR8iJyAkKx8fHycmJC8wMisuLy0wMSwuLywsKiwqJiEjIl5KOZ9wSgBFTVxIV2tIVV59h5BtfIYSFhcUFRkODRERERUXGBsbHyAdJS8nKS4oKS8iIygdHiMYGh4WGRwaFhQwJBoAQURNTFVlQkhSyNDWt7CxEw0RDg8SDg8RDA0SGBgaMi4tLSwvHR4gFhccGBkdGRocEBEVJScqPT9CGhweAGxuZkRCPi0tLygnJisiH0UuMCYgGhUTERcWFjgvKXleSXFYRiAgIEU9NRoaGxITFgUGCIKEic/R1i8wMFe0+LT2Sa3qAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cems&quot;
-        title=&quot;Cems&quot;
-        src=&quot;/static/3700f78919ade4f59b32f44b9e551e2f/f058b/003_cems3.png&quot;
-        srcset=&quot;/static/3700f78919ade4f59b32f44b9e551e2f/c26ae/003_cems3.png 158w,
-/static/3700f78919ade4f59b32f44b9e551e2f/6bdcf/003_cems3.png 315w,
-/static/3700f78919ade4f59b32f44b9e551e2f/f058b/003_cems3.png 630w,
-/static/3700f78919ade4f59b32f44b9e551e2f/40601/003_cems3.png 945w,
-/static/3700f78919ade4f59b32f44b9e551e2f/eb2af/003_cems3.png 954w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        alt=&quot;Motion&quot;
+        title=&quot;Motion&quot;
+        src=&quot;/static/c45e1f6930be06d92f5d95d75ac52dc2/357e3/001_motion2.png&quot;
+        srcset=&quot;/static/c45e1f6930be06d92f5d95d75ac52dc2/c26ae/001_motion2.png 158w,
+/static/c45e1f6930be06d92f5d95d75ac52dc2/357e3/001_motion2.png 286w&quot;
+        sizes=&quot;(max-width: 286px) 100vw, 286px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;대구광역시에 위치한 공단, 공장, 기관의 전력 사용량을 실시간으로 감시하고 데이터를 분석하여
-전력 사용량 절감을 유도하는 스마트 그리드 기반의 프로젝트입니다.&lt;/p&gt;
+&lt;p&gt;컴퓨터 그래픽스 이론을 기초로 하여 직접 팀원을 모집, 주제를 선정한 프로젝트 입니다.
+초기 목표는 모션 캡쳐 장비를 직접 신체에 부착하여 모션 데이터를 수집하는 것이었지만,
+장비 대여 및 기간의 한계가 있어, 기존의 BVH 포맷 데이터를 표현하는 방향으로 진행하였습니다.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -599,65 +474,169 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;인원&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;개발 20+명 + DBA 1명&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;IT융합응용공학 4학년 4명&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;기간&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;1년&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;2학기&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;참고도서&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;OpenGL로 배우는 3차원 컴퓨터 그래픽스(한빛아카데미)&lt;br/&gt; OpenGL SUPER BIBLE 3(정보문화사)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;Dependencies&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Spring framework&lt;br/&gt;Java Script(Angular.js, nginx)&lt;br/&gt;bootstrap(CSS)&lt;br/&gt;tibero(RDBMS)&lt;br/&gt;rMate(Chart UI)&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;C++ OpenGL&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2&gt;닦아쥬&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/0B-9fnGL9jjaMdDAtVWptRWNmQzA/view?resourcekey=0-T1KEq4LqigICfq2yPH0hxQ&quot;&gt;▶동영상&lt;/a&gt;&lt;/p&gt;
-&lt;h5&gt;게임 컨셉&lt;/h5&gt;
-&lt;p&gt;창문닦기 게임에서 아이디어를 얻어 귀여운 원숭이(player)가 기린의 등에 올라타 하마(npc)를 피해 각 건물(stage)의 창문을 닦는 게임입니다. 게임 도중 물풍선, 수건 종류와 같은 item을 추가해 재미 요소를 주었습니다.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;OpenGL을 이용한 BVH 모션캡쳐&lt;/h2&gt;
+&lt;h5&gt;BVH란?&lt;/h5&gt;
+&lt;p&gt;Biovision사에서 만든 모션 캡쳐 데이터 파일로, HEADER 영역과 MOTION 영역으로 나누어져 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HEADER
+&lt;ul&gt;
+&lt;li&gt;HIERARCHY&lt;/li&gt;
+&lt;li&gt;ROOT: 전체 구조의 기본이 되며 한 파일당 하나의 ROOT만 존재
+&lt;ul&gt;
+&lt;li&gt;OFFSET: 이후에 ‘{‘ 다음에 오며, X, Y, Z로 이루어져 있으며 부모로부터의 길이와 방향을 나타냄&lt;/li&gt;
+&lt;li&gt;CHANNELS: OFFSET다음에 오며 채널 개수와 type을 표현, Z/X/Y rotation 순으로 입력되어 있음&lt;/li&gt;
+&lt;li&gt;JOINT: 관절을 나타내며 연결된 일련의 객체의 root 역할을 하며, 재귀 구조가 기작되는 부분&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;END SITE: 재귀 구조의 마지막을 나타냄&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MOTION&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ebf849ca72bbc5f18a23ceb20aa9f870/41be6/001_section.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABE5AAAVrwE7yxYGAAABfElEQVQ4y61R2XKjMBDk/z8vT4uzrnWIbRxxSWh0I/UWyJCQXVfyEKqm1COYpnu6ODz/wun3Cd4F/MRTAAkpJhyPR5yvF/RCgDUd2m4ASQWr7VKaNJzJ2JDZ8HanDIIPMyEQgsfhuUR1qjC0fHk5ExhtFmxNHnDGwVm34O2bO1ZSwVufCVOKyGfCoSzx5+UEToSm7dH2A0ZBsCqr0pQJHlqeSVLKjXcOt8sNt8sbiAiKFPSsROls/27PaoMUI/LsvopVWa64/alhDKOUUM5CWQtpNMI07dSkVck+FGAKAU3LMPIR3vlvJ/qQMMaIaQrLwsuyRPVaQUhC13EMXGwBrGnPtZLlM33eYb4I3qM+X3E91+CcYxQSRGrZH41qSXlN9SHhu/yIGN931PcdSBHcFKCdhZ/CQ8sfRRVCcFhnv9zNPrx9fZwpDk8l6qqGuyc5SLnZ+B/xV3cF6wacWYMLa/DaMLwwBsY53oYBnRzRjgJ13y99f+9nnHv5j+W/QsT4L1zm4iQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Section&quot;
+        title=&quot;Section&quot;
+        src=&quot;/static/ebf849ca72bbc5f18a23ceb20aa9f870/f058b/001_section.png&quot;
+        srcset=&quot;/static/ebf849ca72bbc5f18a23ceb20aa9f870/c26ae/001_section.png 158w,
+/static/ebf849ca72bbc5f18a23ceb20aa9f870/6bdcf/001_section.png 315w,
+/static/ebf849ca72bbc5f18a23ceb20aa9f870/f058b/001_section.png 630w,
+/static/ebf849ca72bbc5f18a23ceb20aa9f870/41be6/001_section.png 638w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h5&gt;설계&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;GameManager: 게임 초기화 및 전체 오브젝트 생성/관리
-&lt;ul&gt;
-&lt;li&gt;Awake()&lt;/li&gt;
-&lt;li&gt;Start()&lt;/li&gt;
-&lt;li&gt;Update(): 프레임마다 life, window count&lt;/li&gt;
-&lt;li&gt;InitState1(), InitState2(), InitState3(): stage 생성(3x3/3x4 배열)&lt;/li&gt;
-&lt;li&gt;InitNPC(): player와 마주보도록 위치 지정/이동경로 설정&lt;/li&gt;
-&lt;li&gt;Transform returnToWindow(): window의 배열 위치 및 flag&lt;/li&gt;
-&lt;li&gt;GameObject returnWindow(): window 객체 리턴&lt;/li&gt;
-&lt;li&gt;clearWindow()&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Player
-&lt;ul&gt;
-&lt;li&gt;Start(): player 초기화/GameManager 클래스 및 컴포넌트 선언&lt;/li&gt;
-&lt;li&gt;Update(): 프레임마다 키 입력 처리&lt;/li&gt;
-&lt;li&gt;OnTriggerEnter()&lt;/li&gt;
-&lt;li&gt;InitMonkeyPos(): player 위치 초기화&lt;/li&gt;
-&lt;li&gt;StateAttack()&lt;/li&gt;
-&lt;li&gt;IEnumerator playerDie&lt;/li&gt;
-&lt;li&gt;MovePlayer(): 키보드(화살표) 입력 값을 받아와 player 이동, 문에 가로막히면 이동 불가&lt;/li&gt;
-&lt;li&gt;WinClean()&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Npc
-&lt;ul&gt;
-&lt;li&gt;Start(): npc 초기화(각 stage별로 speed, material 다르게 설정)&lt;/li&gt;
-&lt;li&gt;Update(): 코루틴을 이용해 MoveNpc() 를 계속 호출함/목적지를 랜덤으로 하여 npc의 움직임을 제어함&lt;/li&gt;
-&lt;li&gt;InitNpcPos()&lt;/li&gt;
-&lt;li&gt;IEnumerator MoveNpc&lt;/li&gt;
-&lt;li&gt;IEnumerator MoveFloor&lt;/li&gt;
-&lt;li&gt;IEnumerator MoveCol&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5&gt;설계&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;./001_skeleton.png&quot; alt=&quot;Section&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 369px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2c676d1f3e683e349a29176d976429de/e0cdb/001_skeleton.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 141.13924050632912%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAABcRAAAXEQHKJvM/AAADN0lEQVRIx51VW1PaUBDmd/epM53pU5861r50ptbLtNXWUUfHK9VprRdE0CAoIAYTICQhCcTcSE7ydQgkDZcwtmeGYc/unu/s7rfZk0BkeZ4XCKHsdE0oUhOEkNAnsIX+kZWIgkUd/R8ApnSGne+zoCt3vs0l5HmAY1EOFnWRxNz7V2Cq5al+UyPUqlWoDxVfbtYq2Fydg+04IIYBmbqGo+tTIhxJs7f0Wg1S5tKXFUVCNpv2ZVuW0UpfwIvUcwxwrG6Dfbdr4fJ0B1epJA5/bGNnYwk316mJvlE5MXpTIPeY3d9cwteVz/iysYfP87PInB/CssxY0KEIiWnCVjv91LoWFIkDXaYwM7+KF29X8HFhEZLAgqszmEZkCGhJErjkATzTRFvmQLoGqHweL999w+vZRcwsrMPSOxCbLAjpQnt8hJzNjoEO1dDpdGCZJtJUwddxrQ7OMjkc7G+BKjFwHBui3EblkYHdaEBjmPgaBopOi0ejyftyW+JxlTnH15VliFwVHrFhu0CpUgKBO5HpxGhx+dQZ1ELel5Pby/gw8wpv37zE9e9V6KoIuB6k3BV0gR8CnMiyrquoF29gCYK/L+bT2Fz9hIvTJFI/16HpTyC6DvH8DLVyYSLbieiGpu/xpGvhgLi5OkE2fQwqe4LUSRLNOh2mdl8pQZaleJY17QnM40PfwXXhui5q1bu/n6MqocXXwoOq2kGxWBgnJRAMXQMhzlCB2WoxHFuyyEESuf7EcfuEaLoG27bja+gDNxqwVRW94dUDDA63FQHiIEJvkAVcNyblSMhKjoJCUXA94pMS6NW2CJYezETHhnD8y2/u2JSDf9dx/JsluYXtjSU4g5TqTBHJvbXQR2dZkG53+nCIGrh6FYf7a8F0A8+x2N1aCWsaN2gTce+EyLOoMfehI3FsFHIXMAwj7IRJT0Fi5LrQ2GzQEJps5ICHPJWCaehTH6vEaPiBscFWIPL1MJre6kVoWcbz3pRRQJYu+L0X7bvbXApPqvJ8wOjhbOYc9To70PWJOD39CYFv/l+ER0c7IWDA7NHRLmi6PHTxswGrD7eQJWGg7x8ul3JQlNa/pTypJ+MepEmAfwArb2yJODB5xgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Section&quot;
+        title=&quot;Section&quot;
+        src=&quot;/static/2c676d1f3e683e349a29176d976429de/e0cdb/001_skeleton.png&quot;
+        srcset=&quot;/static/2c676d1f3e683e349a29176d976429de/c26ae/001_skeleton.png 158w,
+/static/2c676d1f3e683e349a29176d976429de/6bdcf/001_skeleton.png 315w,
+/static/2c676d1f3e683e349a29176d976429de/e0cdb/001_skeleton.png 369w&quot;
+        sizes=&quot;(max-width: 369px) 100vw, 369px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
 실제 사람의 뼈가 움직이는 원리를 이용하여 &lt;strong&gt;관절(joint)&lt;/strong&gt;, 그리고 joint와 joint 사이, joint와 end site 사이의 길이
 즉, 팔과 다리는 offset 으료 표현됩니다.
 하나의 join에 종속된 하위 객체들은 상위 join가 움직이면 함께 움직이며,
 이러한 움직임을 stack에 저장하여 구현하였습니다. &lt;br/&gt;
-&lt;img src=&quot;./001_skeleton2.png&quot; alt=&quot;Section&quot;&gt;&lt;/p&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 539px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3bd12ce6ed63e555bb8346954995a336/10f9a/001_skeleton2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.0506329113924%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACZElEQVQ4y41Uy27TQBTNJ7JAIBbAL7DiA5AQL7GJIJXKgk1ZIERboBQaWpXSt1CkODTvhyGxEztv2xl7/DzoTlKTiC5ypSON586ce+5jnAiCANxxIFerqJfLqBQK0FUVZIy7sGyOMAwFlrGE7ThAGMLodjHSNAw7HbDRSDjvrR0guXUq1q7ngXMO27YFHMeBNR7B9/0FJMhJ0cemid5gALXTwdgwhPNmagePN44FYRhF8DwPjDFBNhoOkT3YA3dd2IzFQRKWZYlFr9XCn2IRFUlCu16Dxzlur+7i2eaMMIxEkMuLRFK7kOIAtE8ZCELXda+sx62VNB6tH80UIiYkUAl+fvsCXVXgzfZjQlpMVYQIghBRFAncXU3jxfa58NElOmeaJkzTwITZ+HW4j36nLcivJJy3CIBSTKLf3J6p80RqbFYv7nqoZzMYdvVFQoroB4EYlUI2i0o+D/W3LGr24O06Xu/sTQNE0ULKDuconR9jPOhNGzOvkA73NA1FSUJBktAolTCxTFxP7ePh+xNBGITTLpNKAucuCqeHGPW6i4SkkCSz8RiaLKPdkKHLMhzLwp1Xu3i68a8pRDiZTEAiDMPAj3drGGid5WpIduNlGs8/nsWDTZcs0wSzbbCJhczXD+iqLbie///YBGEoOkmgmlJTjk5WkM9/Eusg8IXC+Rq2ygX0tbZI/3IeRcr0nrvtNi4yGZSkHJq1KnwvwP03W0h9/h43hc4R6SU4zaPrxt/x0yN1zUZDNKWUy0FXFGLAtWQaTzbPZk1Z8udAkemyoevoKwoGigJrOBTOotpHz2CxwmXwF4ijbSYZwlbgAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Section&quot;
+        title=&quot;Section&quot;
+        src=&quot;/static/3bd12ce6ed63e555bb8346954995a336/10f9a/001_skeleton2.png&quot;
+        srcset=&quot;/static/3bd12ce6ed63e555bb8346954995a336/c26ae/001_skeleton2.png 158w,
+/static/3bd12ce6ed63e555bb8346954995a336/6bdcf/001_skeleton2.png 315w,
+/static/3bd12ce6ed63e555bb8346954995a336/10f9a/001_skeleton2.png 539w&quot;
+        sizes=&quot;(max-width: 539px) 100vw, 539px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h5&gt;전체 계층 구조&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;./001_hir.png&quot; alt=&quot;Section&quot;&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/25150114c6297183f299a10f29d8a97e/21b4d/001_hir.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.72151898734178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABcRAAAXEQHKJvM/AAADEklEQVQ4y61USWwcRRT9PeZqyMEiHByQlRNILAIJkQsHligiwiLxLB7P0tPds3jGmSS2E8aKBQgQKJIVDpFn66W6e9rjeEuQwoF4uruWnhk7NlIuWQ5IOXLhwDFnVB0hDuGE8qXS15fqv1//6b0CeN7x4dXbkNWxIBlEkBEVUqovFCwG/+S06gvV7gAube4LF28MIa1hQUKU94Cok2cB37myBikVQ1Z7eiHRdCFvMphuecABE00P5jf24Kuff4OlnQNItj3IGYQPCnueiRX3kTCj+mNpDY9lNHwk1nCPyiYdjTfdV/ImezHWcI9dWB+OLt86fLW2fTA63fLGRZ2MJpou3ybCgVOq/y9gFgUgI3KnYLHbBYu1ZETvlWz2bc4gvxdMellG9EHJZrMFiz0uWmxORvShYtJsRsMQa7h8qxfyJhWi9V7k0tb+CKSau/Gc7i8rJq2VbFaUDLJS7gQJySDXChZbFHXyl4LogmLSJwqitayO/5QMsqiY9GTeZO/KiIKCKETrPbi8tQ+Q07wvpo0BnLn+a8jb5PU7kGp7cHa1B6Luf5TRcEfU8WeJputIBpnM6ritIBqfaftORsP5OaefmHP6nydbXvLLrbvfQazlg2TglZId/JDR8Px0y1MVRMW06m9mVC8mIfpj3qQfp1X8k2LST3MG4fXprI6/zuk4yqlREN2UEDmxtHMgwS/3/4Bk2x9Pqf54RsNH4013omgHY2dXdyeqTvDmwsZe9Hx38HrF6cfn14dvLGzsnbm4PnzrXHcwWekE71W7g+H57qCRVv3i0s6BDhOLNgcMZcCJ5rKZ7fTDumQHJ4oWqxct9omok0bJDk7lTXZt1g4mZUSv5nQ8kzOILyO6Kur4WG377gdwvHYjFDEXt6gTIdnyhKIdgKjjSHVtABWnD7M2C7VX7gRhzTPXKud6qt57eareeyna6MGVm4f/7Z5y52nTubW+UHH6I+VOwJ00UnECoez0w1yw2Eiq7UWm6j0Iz+qusHzzMPK/7Mpf2yQPAV6rAt9opu3D+9/fgre/2X7uXwP8Daurm5wENqvpAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Section&quot;
+        title=&quot;Section&quot;
+        src=&quot;/static/25150114c6297183f299a10f29d8a97e/f058b/001_hir.png&quot;
+        srcset=&quot;/static/25150114c6297183f299a10f29d8a97e/c26ae/001_hir.png 158w,
+/static/25150114c6297183f299a10f29d8a97e/6bdcf/001_hir.png 315w,
+/static/25150114c6297183f299a10f29d8a97e/f058b/001_hir.png 630w,
+/static/25150114c6297183f299a10f29d8a97e/40601/001_hir.png 945w,
+/static/25150114c6297183f299a10f29d8a97e/78612/001_hir.png 1260w,
+/static/25150114c6297183f299a10f29d8a97e/21b4d/001_hir.png 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
