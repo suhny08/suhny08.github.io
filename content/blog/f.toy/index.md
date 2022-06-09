@@ -10,7 +10,7 @@ description: study 및 토이 프로젝트 1
 ![Insuarance](./ins1.png)
 
 ##### Before project starts 
-- 금융위원희 보험약관을 개인이 사용해도 되는지? (상업적 이용 X) 
+- 금융위원회 보험약관을 개인이 사용해도 되는지? (상업적 이용 X) 
     - 가능함.
 - min-width: 640px 기준, 모바일 웹을 우선함
 
